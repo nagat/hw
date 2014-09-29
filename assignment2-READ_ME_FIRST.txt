@@ -1,3 +1,6 @@
+If you're viewing this on github.com, click 'raw' in the upper 
+right corner to open the instructions full-screen.
+
 If you get stuck on any steps, post in Slack under general.
 Make sure to mention which step you are stuck on and what you've tried so far.
 If you see that someone else is stuck and you know how to get them un-stuck, feel free to reply to their post(s) on slack.
